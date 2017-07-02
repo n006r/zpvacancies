@@ -28,3 +28,18 @@
 - [Create React App](https://github.com/facebookincubator/create-react-app)
 
 Данная задача не включала в себя какие-то серьезные преобразования данных или хранение сложных структур, поэтому redux не использовался.
+
+#№ Как запустить локально?
+клонируем репозиторий к себе
+```sh
+$ git clone https://github.com/n06rin/zpvacancies.git
+```
+заходим в директорию  и запускаем yarn
+```sh
+$ cd zpvacancies
+$ yarn
+```
+запустить приложение локально:
+```sh
+$ yarn start
+```
