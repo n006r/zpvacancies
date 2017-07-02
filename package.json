@@ -1,7 +1,7 @@
 {
   "name": "zpvacancies",
   "version": "0.1.0",
-  "homepage": "https://n06rin.github.io/zpvacancies/build",
+  "homepage": "https://n06rin.github.io/zpvacancies/build/",
   "private": true,
   "dependencies": {
     "@types/jest": "^20.0.2",

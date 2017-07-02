@@ -19,7 +19,7 @@
 | Мастер | Количество вакансий |<br>
 
 
-Рабочий пример можно посмотреть здесь: [https://n06rin.github.io/zpvacancies/build](https://n06rin.github.io/zpvacancies/build)
+Рабочий пример можно посмотреть здесь: [https://n06rin.github.io/zpvacancies/build/](https://n06rin.github.io/zpvacancies/build/)
 
 
 ## Используемые технологии:
